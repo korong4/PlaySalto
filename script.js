@@ -18,13 +18,6 @@ fetch('saltoGJON.geojson')
     map.setMaxBounds(cityLayer.getBounds());
     map.options.maxBoundsViscosity = 1.0; // impede o usuário de sair do limite
     });
-/* var marker = L.marker([-23.18521768437905, -47.28429933910638]).addTo(map); 
-marker.bindPopup("<b>Casa do felpe</b><br>").openPopup();
-var marker = L.marker([-23.186269482908823, -47.302672590227516]).addTo(map);  //-23.186269482908823, -47.302672590227516
-marker.bindPopup("<b>IFSP</b><br>").openPopup();
-var marker = L.marker([-23.197503889042096, -47.291592603718286]).addTo(map);
-marker.bindPopup('<p> Ginasio </p> <a href="teste.html"> informações </a>').openPopup(); */
-
 fetch('locais.geojson')
 .then(res => res.json())
 .then(data => {
@@ -41,6 +34,33 @@ fetch('locais.geojson')
         onEachFeature: function(feature, layer) {
             let esporte = feature.properties.sport || "Esporte";
             layer.bindPopup("<b>Quadra</b><br>" + esporte);
+        }
+
+    }).addTo(map);
+});
+fetch('quadras.geojson')
+.then(res => res.json())
+.then(data => {
+
+    L.geoJSON(data, {
+
+        style: {
+            color: 'green',
+            fillOpacity: 0.3
+        },
+
+        onEachFeature: function(feature, layer) {
+
+            let esporte = feature.properties.sport || "Esporte";
+
+            layer.bindPopup("<b>Quadra</b><br>" + esporte);
+
+            // cria marcador no centro
+            let center = layer.getBounds().getCenter();
+
+            L.marker(center)
+                .addTo(map)
+                .bindPopup("Centro da quadra: " + esporte);
         }
 
     }).addTo(map);
