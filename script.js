@@ -64,30 +64,22 @@ fetch('quadras.geojson')
     }).addTo(map);
 });
 
-fetch('praca.geojson') // praças da cidade de Salto - SP
+fetch('praca.geojson') // mapa da cidade de salto-SP
 .then(res => res.json())
 .then(data => {
 
     L.geoJSON(data, {
-
         style: {
             color: 'black',
+            weight: 2,
             fillOpacity: 0.3
         },
-
         onEachFeature: function(feature, layer) {
 
-            let esporte = feature.properties.sport || "Esporte";
+            let nome = feature.properties.name || "Praça";
 
-            layer.bindPopup("<b>Quadra</b><br>" + esporte);
-
-            // cria marcador no centro
-            let center = layer.getBounds().getCenter();
-
-            L.marker(center)
-                .addTo(map)
-                .bindPopup("Centro da quadra: " + esporte);
+            layer.bindPopup("<b>" + nome + "</b>");
         }
-
     }).addTo(map);
+
 });
