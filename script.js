@@ -1,4 +1,3 @@
-// Inicializa o mapa centrado em Salto
 var map = L.map('map').setView([-23.176, -47.281], 13);
 
 L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
@@ -14,11 +13,10 @@ fetch('saltoGJON.geojson')
         style: {color: 'blue', weight: 2, fillOpacity: 0.1}
     }).addTo(map);
 
-    // Delimita o mapa aos limites da cidade
     map.setMaxBounds(cityLayer.getBounds());
-    map.options.maxBoundsViscosity = 1.0; // impede o usuário de sair do limite
+    map.options.maxBoundsViscosity = 1.0; // impede o usuario de sair do limite
     });
-fetch('locais.geojson')
+fetch('quadras.geojson')
 .then(res => res.json())
 .then(data => {
 
@@ -64,7 +62,6 @@ fetch('quadras.geojson')
         }
 
     }).addTo(map);
-
 });
 
 
