@@ -1,0 +1,1305 @@
+[
+  {
+    "tipo": "Futebol",
+    "categoria": "Quadra",
+    "latitude": -31.4026511,
+    "longitude": -57.9491583,
+    "bairro": "Desconhecido"
+  },
+  {
+    "tipo": "Futebol",
+    "categoria": "Quadra",
+    "latitude": -31.4011187,
+    "longitude": -57.9487436,
+    "bairro": "Desconhecido"
+  },
+  {
+    "tipo": "Futebol",
+    "categoria": "Quadra",
+    "latitude": -31.3749304,
+    "longitude": -57.9628537,
+    "bairro": "Desconhecido"
+  },
+  {
+    "tipo": "Futebol",
+    "categoria": "Quadra",
+    "latitude": -31.3751345,
+    "longitude": -57.9626142,
+    "bairro": "Desconhecido"
+  },
+  {
+    "tipo": "Futebol",
+    "categoria": "Quadra",
+    "latitude": -31.3726396,
+    "longitude": -57.9635725,
+    "bairro": "Desconhecido"
+  },
+  {
+    "tipo": "Tênis",
+    "categoria": "Quadra",
+    "latitude": -31.2737354,
+    "longitude": -57.921348,
+    "bairro": "Desconhecido"
+  },
+  {
+    "tipo": "Futebol",
+    "categoria": "Quadra",
+    "latitude": -31.4010386,
+    "longitude": -57.9661371,
+    "bairro": "Desconhecido"
+  },
+  {
+    "tipo": "Futebol",
+    "categoria": "Quadra",
+    "latitude": -31.3784925,
+    "longitude": -57.896312,
+    "bairro": "Desconhecido"
+  },
+  {
+    "tipo": "Futebol",
+    "categoria": "Quadra",
+    "latitude": -31.3879012,
+    "longitude": -57.8973435,
+    "bairro": "Desconhecido"
+  },
+  {
+    "tipo": "Futebol",
+    "categoria": "Quadra",
+    "latitude": -31.0629597,
+    "longitude": -57.8542118,
+    "bairro": "Desconhecido"
+  },
+  {
+    "tipo": "Futebol",
+    "categoria": "Quadra",
+    "latitude": -31.3820553,
+    "longitude": -57.9570396,
+    "bairro": "Desconhecido"
+  },
+  {
+    "tipo": "Futebol",
+    "categoria": "Quadra",
+    "latitude": -31.4003636,
+    "longitude": -57.9593206,
+    "bairro": "Desconhecido"
+  },
+  {
+    "tipo": "Futebol",
+    "categoria": "Quadra",
+    "latitude": 41.6398711,
+    "longitude": -7.9489276,
+    "bairro": "Desconhecido"
+  },
+  {
+    "tipo": "Futebol",
+    "categoria": "Quadra",
+    "latitude": 41.6343329,
+    "longitude": -7.9493406,
+    "bairro": "Desconhecido"
+  },
+  {
+    "tipo": "Futebol",
+    "categoria": "Quadra",
+    "latitude": 43.2148566,
+    "longitude": -8.191536,
+    "bairro": "Desconhecido"
+  },
+  {
+    "tipo": "Tênis",
+    "categoria": "Quadra",
+    "latitude": 43.2154662,
+    "longitude": -8.1894998,
+    "bairro": "Desconhecido"
+  },
+  {
+    "tipo": "Tênis",
+    "categoria": "Quadra",
+    "latitude": 43.2142399,
+    "longitude": -8.1918321,
+    "bairro": "Desconhecido"
+  },
+  {
+    "tipo": "Futebol",
+    "categoria": "Quadra",
+    "latitude": -31.4043284,
+    "longitude": -57.987887,
+    "bairro": "Desconhecido"
+  },
+  {
+    "tipo": "Futebol",
+    "categoria": "Quadra",
+    "latitude": -23.1964235,
+    "longitude": -47.262186,
+    "bairro": "Desconhecido"
+  },
+  {
+    "tipo": "Tênis",
+    "categoria": "Quadra",
+    "latitude": -26.8845636,
+    "longitude": -49.1057905,
+    "bairro": "Desconhecido"
+  },
+  {
+    "tipo": "beachvolleyball",
+    "categoria": "Quadra",
+    "latitude": -26.8837176,
+    "longitude": -49.106394,
+    "bairro": "Desconhecido"
+  },
+  {
+    "tipo": "five-a-side",
+    "categoria": "Quadra",
+    "latitude": -26.8844115,
+    "longitude": -49.1062475,
+    "bairro": "Desconhecido"
+  },
+  {
+    "tipo": "Futebol",
+    "categoria": "Quadra",
+    "latitude": -31.4060259,
+    "longitude": -57.9742422,
+    "bairro": "Desconhecido"
+  },
+  {
+    "tipo": "skateboard",
+    "categoria": "Quadra",
+    "latitude": -31.3843805,
+    "longitude": -57.9739892,
+    "bairro": "Desconhecido"
+  },
+  {
+    "tipo": "Futebol",
+    "categoria": "Quadra",
+    "latitude": -31.3965997,
+    "longitude": -57.9611509,
+    "bairro": "Desconhecido"
+  },
+  {
+    "tipo": "Futebol",
+    "categoria": "Quadra",
+    "latitude": -31.3971423,
+    "longitude": -57.9602014,
+    "bairro": "Desconhecido"
+  },
+  {
+    "tipo": "Futebol",
+    "categoria": "Quadra",
+    "latitude": -31.3824606,
+    "longitude": -57.9755699,
+    "bairro": "Desconhecido"
+  },
+  {
+    "tipo": "Futebol",
+    "categoria": "Quadra",
+    "latitude": -31.3832939,
+    "longitude": -57.9749644,
+    "bairro": "Desconhecido"
+  },
+  {
+    "tipo": "Futebol",
+    "categoria": "Quadra",
+    "latitude": -34.2801628,
+    "longitude": -60.2491863,
+    "bairro": "Desconhecido"
+  },
+  {
+    "tipo": "Futebol",
+    "categoria": "Quadra",
+    "latitude": -34.2796126,
+    "longitude": -60.249015,
+    "bairro": "Desconhecido"
+  },
+  {
+    "tipo": "Tênis",
+    "categoria": "Quadra",
+    "latitude": -34.2796892,
+    "longitude": -60.2493079,
+    "bairro": "Desconhecido"
+  },
+  {
+    "tipo": "Tênis",
+    "categoria": "Quadra",
+    "latitude": -34.2797784,
+    "longitude": -60.2494987,
+    "bairro": "Desconhecido"
+  },
+  {
+    "tipo": "Tênis",
+    "categoria": "Quadra",
+    "latitude": -34.2749798,
+    "longitude": -60.241424,
+    "bairro": "Desconhecido"
+  },
+  {
+    "tipo": "Futebol",
+    "categoria": "Quadra",
+    "latitude": -34.2754804,
+    "longitude": -60.2406523,
+    "bairro": "Desconhecido"
+  },
+  {
+    "tipo": "Futebol",
+    "categoria": "Quadra",
+    "latitude": -34.2879655,
+    "longitude": -60.2444898,
+    "bairro": "Desconhecido"
+  },
+  {
+    "tipo": "Futebol",
+    "categoria": "Quadra",
+    "latitude": -34.2880667,
+    "longitude": -60.244627,
+    "bairro": "Desconhecido"
+  },
+  {
+    "tipo": "Tênis",
+    "categoria": "Quadra",
+    "latitude": -34.2888935,
+    "longitude": -60.2463999,
+    "bairro": "Desconhecido"
+  },
+  {
+    "tipo": "Tênis",
+    "categoria": "Quadra",
+    "latitude": -34.2888732,
+    "longitude": -60.2465543,
+    "bairro": "Desconhecido"
+  },
+  {
+    "tipo": "Futebol",
+    "categoria": "Quadra",
+    "latitude": -34.2893609,
+    "longitude": -60.2453577,
+    "bairro": "Desconhecido"
+  },
+  {
+    "tipo": "Futebol",
+    "categoria": "Quadra",
+    "latitude": -34.2884391,
+    "longitude": -60.2492571,
+    "bairro": "Desconhecido"
+  },
+  {
+    "tipo": "Futebol",
+    "categoria": "Quadra",
+    "latitude": -34.2909847,
+    "longitude": -60.246085,
+    "bairro": "Desconhecido"
+  },
+  {
+    "tipo": "Futebol",
+    "categoria": "Quadra",
+    "latitude": -34.2910177,
+    "longitude": -60.2458882,
+    "bairro": "Desconhecido"
+  },
+  {
+    "tipo": "multi",
+    "categoria": "Quadra",
+    "latitude": -28.3545714,
+    "longitude": -53.6993292,
+    "bairro": "Desconhecido"
+  },
+  {
+    "tipo": "Futebol",
+    "categoria": "Quadra",
+    "latitude": -28.3508053,
+    "longitude": -53.7008339,
+    "bairro": "Desconhecido"
+  },
+  {
+    "tipo": "Tênis",
+    "categoria": "Quadra",
+    "latitude": 43.2144789,
+    "longitude": -8.1918498,
+    "bairro": "Desconhecido"
+  },
+  {
+    "tipo": "Basquete",
+    "categoria": "Quadra",
+    "latitude": 18.3804306,
+    "longitude": -67.0303996,
+    "bairro": "Desconhecido"
+  },
+  {
+    "tipo": "Futebol",
+    "categoria": "Quadra",
+    "latitude": -23.2023591,
+    "longitude": -47.2941538,
+    "bairro": "Desconhecido"
+  },
+  {
+    "tipo": "Futebol",
+    "categoria": "Quadra",
+    "latitude": -23.2033047,
+    "longitude": -47.3052424,
+    "bairro": "Desconhecido"
+  },
+  {
+    "tipo": "Futebol",
+    "categoria": "Quadra",
+    "latitude": -23.203478,
+    "longitude": -47.3065469,
+    "bairro": "Desconhecido"
+  },
+  {
+    "tipo": "Futebol",
+    "categoria": "Quadra",
+    "latitude": -23.2064269,
+    "longitude": -47.3010217,
+    "bairro": "Desconhecido"
+  },
+  {
+    "categoria": "Quadra",
+    "latitude": -23.1884259,
+    "longitude": -47.2726288,
+    "bairro": "Desconhecido"
+  },
+  {
+    "tipo": "Futebol",
+    "categoria": "Quadra",
+    "latitude": -23.2272975,
+    "longitude": -47.2672873,
+    "bairro": "Desconhecido"
+  },
+  {
+    "tipo": "Futebol",
+    "categoria": "Quadra",
+    "latitude": -31.2730734,
+    "longitude": -57.9082466,
+    "bairro": "Desconhecido"
+  },
+  {
+    "tipo": "multi;Futebol;Basquete;athletics;Tênis;volleyball;running;football",
+    "categoria": "Quadra",
+    "latitude": -23.1785329,
+    "longitude": -47.3437674,
+    "bairro": "Desconhecido"
+  },
+  {
+    "tipo": "multi;Futebol;football;running",
+    "categoria": "Quadra",
+    "latitude": -23.1792504,
+    "longitude": -47.3434696,
+    "bairro": "Desconhecido"
+  },
+  {
+    "tipo": "multi;Futebol;football;running",
+    "categoria": "Quadra",
+    "latitude": -23.1795216,
+    "longitude": -47.3485015,
+    "bairro": "Desconhecido"
+  },
+  {
+    "tipo": "bowls",
+    "categoria": "Quadra",
+    "latitude": -23.1784497,
+    "longitude": -47.3440503,
+    "bairro": "Desconhecido"
+  },
+  {
+    "tipo": "Futebol",
+    "categoria": "Quadra",
+    "latitude": -23.1940533,
+    "longitude": -47.2942247,
+    "bairro": "Desconhecido"
+  },
+  {
+    "tipo": "Futebol",
+    "categoria": "Quadra",
+    "latitude": -26.8831226,
+    "longitude": -49.0965011,
+    "bairro": "Desconhecido"
+  },
+  {
+    "tipo": "Futebol",
+    "categoria": "Quadra",
+    "latitude": -34.2959441,
+    "longitude": -60.2565642,
+    "bairro": "Desconhecido"
+  },
+  {
+    "tipo": "Futebol",
+    "categoria": "Quadra",
+    "latitude": -34.2963926,
+    "longitude": -60.2568507,
+    "bairro": "Desconhecido"
+  },
+  {
+    "tipo": "Futebol",
+    "categoria": "Quadra",
+    "latitude": -34.2913402,
+    "longitude": -60.2430279,
+    "bairro": "Desconhecido"
+  },
+  {
+    "tipo": "Tênis",
+    "categoria": "Quadra",
+    "latitude": -34.2842182,
+    "longitude": -60.2586532,
+    "bairro": "Desconhecido"
+  },
+  {
+    "tipo": "Tênis",
+    "categoria": "Quadra",
+    "latitude": -34.2842584,
+    "longitude": -60.258462,
+    "bairro": "Desconhecido"
+  },
+  {
+    "tipo": "Tênis",
+    "categoria": "Quadra",
+    "latitude": -34.2843072,
+    "longitude": -60.258285,
+    "bairro": "Desconhecido"
+  },
+  {
+    "tipo": "Tênis",
+    "categoria": "Quadra",
+    "latitude": -34.2752026,
+    "longitude": -60.240468,
+    "bairro": "Desconhecido"
+  },
+  {
+    "tipo": "Futebol",
+    "categoria": "Quadra",
+    "latitude": -23.1934718,
+    "longitude": -47.2927828,
+    "bairro": "Desconhecido"
+  },
+  {
+    "tipo": "Futebol",
+    "categoria": "Quadra",
+    "latitude": -34.2810738,
+    "longitude": -60.2358304,
+    "bairro": "Desconhecido"
+  },
+  {
+    "tipo": "rugby_union",
+    "categoria": "Quadra",
+    "latitude": -34.2818419,
+    "longitude": -60.2424891,
+    "bairro": "Desconhecido"
+  },
+  {
+    "tipo": "Futebol",
+    "categoria": "Quadra",
+    "latitude": -31.4076119,
+    "longitude": -57.9718352,
+    "bairro": "Desconhecido"
+  },
+  {
+    "categoria": "Quadra",
+    "latitude": -34.299745,
+    "longitude": -60.2445894,
+    "bairro": "Desconhecido"
+  },
+  {
+    "categoria": "Quadra",
+    "latitude": -34.2812666,
+    "longitude": -60.2519877,
+    "bairro": "Desconhecido"
+  },
+  {
+    "categoria": "Quadra",
+    "latitude": -34.2812385,
+    "longitude": -60.2397819,
+    "bairro": "Desconhecido"
+  },
+  {
+    "tipo": "Futebol",
+    "categoria": "Quadra",
+    "latitude": -34.2806956,
+    "longitude": -60.2405244,
+    "bairro": "Desconhecido"
+  },
+  {
+    "tipo": "shuffleboard",
+    "categoria": "Quadra",
+    "latitude": -34.2829583,
+    "longitude": -60.2408833,
+    "bairro": "Desconhecido"
+  },
+  {
+    "tipo": "shuffleboard",
+    "categoria": "Quadra",
+    "latitude": -34.2828214,
+    "longitude": -60.240944,
+    "bairro": "Desconhecido"
+  },
+  {
+    "categoria": "Quadra",
+    "latitude": -31.2814341,
+    "longitude": -57.197006,
+    "bairro": "Desconhecido"
+  },
+  {
+    "tipo": "Basquete",
+    "categoria": "Quadra",
+    "latitude": -31.3961735,
+    "longitude": -57.9784757,
+    "bairro": "Desconhecido"
+  },
+  {
+    "tipo": "Futebol",
+    "categoria": "Quadra",
+    "latitude": -23.1898808,
+    "longitude": -47.2818473,
+    "bairro": "Desconhecido"
+  },
+  {
+    "tipo": "Futebol",
+    "categoria": "Quadra",
+    "latitude": 41.6550723,
+    "longitude": -7.970632,
+    "bairro": "Desconhecido"
+  },
+  {
+    "tipo": "Futebol",
+    "categoria": "Quadra",
+    "latitude": 41.6535843,
+    "longitude": -7.9814346,
+    "bairro": "Desconhecido"
+  },
+  {
+    "tipo": "Futebol",
+    "categoria": "Quadra",
+    "latitude": -31.4012438,
+    "longitude": -57.9848906,
+    "bairro": "Desconhecido"
+  },
+  {
+    "tipo": "multi",
+    "categoria": "Quadra",
+    "latitude": -31.4011646,
+    "longitude": -57.985639,
+    "bairro": "Desconhecido"
+  },
+  {
+    "tipo": "Futebol",
+    "categoria": "Quadra",
+    "latitude": -31.3567708,
+    "longitude": -57.9843251,
+    "bairro": "Desconhecido"
+  },
+  {
+    "tipo": "Tênis",
+    "categoria": "Quadra",
+    "latitude": -30.9477649,
+    "longitude": -57.5221467,
+    "bairro": "Desconhecido"
+  },
+  {
+    "categoria": "Quadra",
+    "latitude": -30.9477764,
+    "longitude": -57.5223554,
+    "bairro": "Desconhecido"
+  },
+  {
+    "categoria": "Quadra",
+    "latitude": -30.9479684,
+    "longitude": -57.5223377,
+    "bairro": "Desconhecido"
+  },
+  {
+    "tipo": "shuffleboard",
+    "categoria": "Quadra",
+    "latitude": -30.9478036,
+    "longitude": -57.5224712,
+    "bairro": "Desconhecido"
+  },
+  {
+    "tipo": "Tênis",
+    "categoria": "Quadra",
+    "latitude": -34.284149,
+    "longitude": -60.2588139,
+    "bairro": "Desconhecido"
+  },
+  {
+    "tipo": "Tênis",
+    "categoria": "Quadra",
+    "latitude": -34.2839224,
+    "longitude": -60.2585697,
+    "bairro": "Desconhecido"
+  },
+  {
+    "tipo": "Basquete",
+    "categoria": "Quadra",
+    "latitude": -34.2845394,
+    "longitude": -60.2576796,
+    "bairro": "Desconhecido"
+  },
+  {
+    "tipo": "beachvolleyball",
+    "categoria": "Quadra",
+    "latitude": -34.2849855,
+    "longitude": -60.2583979,
+    "bairro": "Desconhecido"
+  },
+  {
+    "tipo": "beachvolleyball",
+    "categoria": "Quadra",
+    "latitude": -34.2851229,
+    "longitude": -60.2584234,
+    "bairro": "Desconhecido"
+  },
+  {
+    "tipo": "Futebol",
+    "categoria": "Quadra",
+    "latitude": -31.3858168,
+    "longitude": -57.9075246,
+    "bairro": "Desconhecido"
+  },
+  {
+    "tipo": "Futebol",
+    "categoria": "Quadra",
+    "latitude": -31.4177075,
+    "longitude": -57.9743223,
+    "bairro": "Desconhecido"
+  },
+  {
+    "tipo": "Futebol",
+    "categoria": "Quadra",
+    "latitude": -31.4161904,
+    "longitude": -57.9755827,
+    "bairro": "Desconhecido"
+  },
+  {
+    "tipo": "Futebol",
+    "categoria": "Quadra",
+    "latitude": -31.4175043,
+    "longitude": -57.976795,
+    "bairro": "Desconhecido"
+  },
+  {
+    "tipo": "Futebol",
+    "categoria": "Quadra",
+    "latitude": -31.3772444,
+    "longitude": -57.952253,
+    "bairro": "Desconhecido"
+  },
+  {
+    "tipo": "Futebol",
+    "categoria": "Quadra",
+    "latitude": -31.3829679,
+    "longitude": -57.8959073,
+    "bairro": "Desconhecido"
+  },
+  {
+    "tipo": "Futebol",
+    "categoria": "Quadra",
+    "latitude": -31.3944173,
+    "longitude": -57.944596,
+    "bairro": "Desconhecido"
+  },
+  {
+    "categoria": "Quadra",
+    "latitude": -31.3842378,
+    "longitude": -57.9626855,
+    "bairro": "Desconhecido"
+  },
+  {
+    "categoria": "Quadra",
+    "latitude": -30.7870153,
+    "longitude": -57.7802349,
+    "bairro": "Desconhecido"
+  },
+  {
+    "categoria": "Quadra",
+    "latitude": -31.3666743,
+    "longitude": -57.9572,
+    "bairro": "Desconhecido"
+  },
+  {
+    "categoria": "Quadra",
+    "latitude": -31.367015,
+    "longitude": -57.9572835,
+    "bairro": "Desconhecido"
+  },
+  {
+    "tipo": "Futebol",
+    "categoria": "Quadra",
+    "latitude": -31.3673652,
+    "longitude": -57.9564125,
+    "bairro": "Desconhecido"
+  },
+  {
+    "categoria": "Quadra",
+    "latitude": -31.3663837,
+    "longitude": -57.9592567,
+    "bairro": "Desconhecido"
+  },
+  {
+    "tipo": "Futebol",
+    "categoria": "Quadra",
+    "latitude": -34.2907474,
+    "longitude": -60.2462978,
+    "bairro": "Desconhecido"
+  },
+  {
+    "tipo": "Futebol",
+    "categoria": "Quadra",
+    "latitude": -34.2909686,
+    "longitude": -60.2460422,
+    "bairro": "Desconhecido"
+  },
+  {
+    "tipo": "Futebol",
+    "categoria": "Quadra",
+    "latitude": -34.2910062,
+    "longitude": -60.2458276,
+    "bairro": "Desconhecido"
+  },
+  {
+    "tipo": "Futebol",
+    "categoria": "Quadra",
+    "latitude": -34.2910062,
+    "longitude": -60.2458276,
+    "bairro": "Desconhecido"
+  },
+  {
+    "tipo": "Futebol;athletics;handball",
+    "categoria": "Quadra",
+    "latitude": -34.2907093,
+    "longitude": -60.2465183,
+    "bairro": "Desconhecido"
+  },
+  {
+    "tipo": "Tênis",
+    "categoria": "Quadra",
+    "latitude": -34.2957239,
+    "longitude": -60.256668,
+    "bairro": "Desconhecido"
+  },
+  {
+    "tipo": "roller_skating",
+    "categoria": "Quadra",
+    "latitude": -31.379757,
+    "longitude": -57.9461201,
+    "bairro": "Desconhecido"
+  },
+  {
+    "tipo": "Futebol",
+    "categoria": "Quadra",
+    "latitude": -31.4116588,
+    "longitude": -57.9806559,
+    "bairro": "Desconhecido"
+  },
+  {
+    "tipo": "Futebol",
+    "categoria": "Quadra",
+    "latitude": -31.3570435,
+    "longitude": -57.9733117,
+    "bairro": "Desconhecido"
+  },
+  {
+    "tipo": "Futebol",
+    "categoria": "Quadra",
+    "latitude": -31.3576417,
+    "longitude": -57.973382,
+    "bairro": "Desconhecido"
+  },
+  {
+    "tipo": "Futebol",
+    "categoria": "Quadra",
+    "latitude": -31.3572743,
+    "longitude": -57.9740348,
+    "bairro": "Desconhecido"
+  },
+  {
+    "tipo": "Futebol",
+    "categoria": "Quadra",
+    "latitude": -31.357165,
+    "longitude": -57.9747512,
+    "bairro": "Desconhecido"
+  },
+  {
+    "tipo": "Futebol",
+    "categoria": "Quadra",
+    "latitude": -31.3571221,
+    "longitude": -57.9754888,
+    "bairro": "Desconhecido"
+  },
+  {
+    "tipo": "Futebol",
+    "categoria": "Quadra",
+    "latitude": -31.4501081,
+    "longitude": -57.9131883,
+    "bairro": "Desconhecido"
+  },
+  {
+    "tipo": "Futebol",
+    "categoria": "Quadra",
+    "latitude": -31.448223,
+    "longitude": -57.9112895,
+    "bairro": "Desconhecido"
+  },
+  {
+    "categoria": "Quadra",
+    "latitude": -34.2820968,
+    "longitude": -60.2479047,
+    "bairro": "Desconhecido"
+  },
+  {
+    "tipo": "futsal",
+    "categoria": "Quadra",
+    "latitude": -31.3871905,
+    "longitude": -57.9448909,
+    "bairro": "Desconhecido"
+  },
+  {
+    "tipo": "futsal",
+    "categoria": "Quadra",
+    "latitude": -31.3870435,
+    "longitude": -57.944868,
+    "bairro": "Desconhecido"
+  },
+  {
+    "tipo": "futsal",
+    "categoria": "Quadra",
+    "latitude": -31.3868701,
+    "longitude": -57.94484,
+    "bairro": "Desconhecido"
+  },
+  {
+    "tipo": "baseball",
+    "categoria": "Quadra",
+    "latitude": 18.3801047,
+    "longitude": -67.0299905,
+    "bairro": "Desconhecido"
+  },
+  {
+    "tipo": "Futebol",
+    "categoria": "Quadra",
+    "latitude": -23.183754,
+    "longitude": -47.2630092,
+    "bairro": "Desconhecido"
+  },
+  {
+    "tipo": "Futebol",
+    "categoria": "Quadra",
+    "latitude": -23.1835374,
+    "longitude": -47.262939,
+    "bairro": "Desconhecido"
+  },
+  {
+    "tipo": "polo",
+    "categoria": "Quadra",
+    "latitude": -31.3565678,
+    "longitude": -57.9801674,
+    "bairro": "Desconhecido"
+  },
+  {
+    "tipo": "polo",
+    "categoria": "Quadra",
+    "latitude": -31.3531034,
+    "longitude": -57.9822511,
+    "bairro": "Desconhecido"
+  },
+  {
+    "tipo": "polo",
+    "categoria": "Quadra",
+    "latitude": -31.3538991,
+    "longitude": -57.9797221,
+    "bairro": "Desconhecido"
+  },
+  {
+    "categoria": "Quadra",
+    "latitude": -23.198005,
+    "longitude": -47.2860461,
+    "bairro": "Desconhecido"
+  },
+  {
+    "tipo": "Basquete",
+    "categoria": "Quadra",
+    "latitude": -23.1979442,
+    "longitude": -47.2858333,
+    "bairro": "Desconhecido"
+  },
+  {
+    "tipo": "Tênis",
+    "categoria": "Quadra",
+    "latitude": -23.1978993,
+    "longitude": -47.2855372,
+    "bairro": "Desconhecido"
+  },
+  {
+    "tipo": "beachvolleyball",
+    "categoria": "Quadra",
+    "latitude": -23.1979048,
+    "longitude": -47.290894,
+    "bairro": "Desconhecido"
+  },
+  {
+    "categoria": "Quadra",
+    "latitude": -23.2000653,
+    "longitude": -47.2732379,
+    "bairro": "Desconhecido"
+  },
+  {
+    "tipo": "beachvolleyball",
+    "categoria": "Quadra",
+    "latitude": -23.2112613,
+    "longitude": -47.2766365,
+    "bairro": "Desconhecido"
+  },
+  {
+    "tipo": "Futebol",
+    "categoria": "Quadra",
+    "latitude": -31.363542,
+    "longitude": -57.9844192,
+    "bairro": "Desconhecido"
+  },
+  {
+    "categoria": "Quadra",
+    "latitude": 43.137274,
+    "longitude": -9.0035431,
+    "bairro": "Desconhecido"
+  },
+  {
+    "tipo": "padel",
+    "categoria": "Quadra",
+    "latitude": -34.2789126,
+    "longitude": -60.2412311,
+    "bairro": "Desconhecido"
+  },
+  {
+    "tipo": "futsal",
+    "categoria": "Quadra",
+    "latitude": -34.289758,
+    "longitude": -60.2385838,
+    "bairro": "Desconhecido"
+  },
+  {
+    "tipo": "futsal",
+    "categoria": "Quadra",
+    "latitude": -34.2975704,
+    "longitude": -60.237799,
+    "bairro": "Desconhecido"
+  },
+  {
+    "tipo": "multi",
+    "categoria": "Quadra",
+    "latitude": -34.3064344,
+    "longitude": -60.2471089,
+    "bairro": "Desconhecido"
+  },
+  {
+    "tipo": "Futebol",
+    "categoria": "Quadra",
+    "latitude": -34.3068645,
+    "longitude": -60.2478176,
+    "bairro": "Desconhecido"
+  },
+  {
+    "categoria": "Quadra",
+    "latitude": -23.2097033,
+    "longitude": -47.3039064,
+    "bairro": "Desconhecido"
+  },
+  {
+    "tipo": "Futebol",
+    "categoria": "Quadra",
+    "latitude": -23.21599,
+    "longitude": -47.2658151,
+    "bairro": "Desconhecido"
+  },
+  {
+    "tipo": "Futebol",
+    "categoria": "Quadra",
+    "latitude": -23.2156566,
+    "longitude": -47.2656287,
+    "bairro": "Desconhecido"
+  },
+  {
+    "tipo": "Basquete",
+    "categoria": "Quadra",
+    "latitude": -31.3564561,
+    "longitude": -57.8742778,
+    "bairro": "Desconhecido"
+  },
+  {
+    "tipo": "Tênis",
+    "categoria": "Quadra",
+    "latitude": -23.2310956,
+    "longitude": -47.2624263,
+    "bairro": "Desconhecido"
+  },
+  {
+    "tipo": "Tênis",
+    "categoria": "Quadra",
+    "latitude": -23.2309902,
+    "longitude": -47.2625515,
+    "bairro": "Desconhecido"
+  },
+  {
+    "tipo": "Basquete",
+    "categoria": "Quadra",
+    "latitude": -23.2184506,
+    "longitude": -47.2664922,
+    "bairro": "Desconhecido"
+  },
+  {
+    "categoria": "Quadra",
+    "latitude": -23.2273383,
+    "longitude": -47.267907,
+    "bairro": "Desconhecido"
+  },
+  {
+    "categoria": "Quadra",
+    "latitude": -23.2248819,
+    "longitude": -47.266309,
+    "bairro": "Desconhecido"
+  },
+  {
+    "tipo": "volleyball",
+    "categoria": "Quadra",
+    "latitude": -23.2238302,
+    "longitude": -47.2660147,
+    "bairro": "Desconhecido"
+  },
+  {
+    "tipo": "Futebol",
+    "categoria": "Quadra",
+    "latitude": -23.2235719,
+    "longitude": -47.2659719,
+    "bairro": "Desconhecido"
+  },
+  {
+    "tipo": "volleyball",
+    "categoria": "Quadra",
+    "latitude": -23.2239025,
+    "longitude": -47.2658701,
+    "bairro": "Desconhecido"
+  },
+  {
+    "categoria": "Quadra",
+    "latitude": -23.2249826,
+    "longitude": -47.2644764,
+    "bairro": "Desconhecido"
+  },
+  {
+    "tipo": "boules",
+    "categoria": "Quadra",
+    "latitude": -23.2252797,
+    "longitude": -47.265095,
+    "bairro": "Desconhecido"
+  },
+  {
+    "tipo": "skateboard",
+    "categoria": "Quadra",
+    "latitude": -23.2243417,
+    "longitude": -47.2639139,
+    "bairro": "Desconhecido"
+  },
+  {
+    "categoria": "Quadra",
+    "latitude": -23.2255153,
+    "longitude": -47.2701553,
+    "bairro": "Desconhecido"
+  },
+  {
+    "categoria": "Quadra",
+    "latitude": -23.2257338,
+    "longitude": -47.2703165,
+    "bairro": "Desconhecido"
+  },
+  {
+    "categoria": "Quadra",
+    "latitude": -23.2222099,
+    "longitude": -47.2652838,
+    "bairro": "Desconhecido"
+  },
+  {
+    "tipo": "Futebol",
+    "categoria": "Quadra",
+    "latitude": -23.2219917,
+    "longitude": -47.2641962,
+    "bairro": "Desconhecido"
+  },
+  {
+    "tipo": "Futebol",
+    "categoria": "Quadra",
+    "latitude": -23.1951443,
+    "longitude": -47.2878531,
+    "bairro": "Desconhecido"
+  },
+  {
+    "tipo": "Futebol",
+    "categoria": "Quadra",
+    "latitude": -23.1951957,
+    "longitude": -47.2884107,
+    "bairro": "Desconhecido"
+  },
+  {
+    "tipo": "Basquete",
+    "categoria": "Quadra",
+    "latitude": -23.1951749,
+    "longitude": -47.288069,
+    "bairro": "Desconhecido"
+  },
+  {
+    "categoria": "Quadra",
+    "latitude": -23.1873142,
+    "longitude": -47.2986636,
+    "bairro": "Desconhecido"
+  },
+  {
+    "tipo": "Futebol",
+    "categoria": "Quadra",
+    "latitude": -23.1878079,
+    "longitude": -47.2986602,
+    "bairro": "Desconhecido"
+  },
+  {
+    "tipo": "Tênis",
+    "categoria": "Quadra",
+    "latitude": -23.1864354,
+    "longitude": -47.2992959,
+    "bairro": "Desconhecido"
+  },
+  {
+    "tipo": "Tênis",
+    "categoria": "Quadra",
+    "latitude": -23.1954663,
+    "longitude": -47.3122798,
+    "bairro": "Desconhecido"
+  },
+  {
+    "tipo": "Tênis",
+    "categoria": "Quadra",
+    "latitude": -23.1631005,
+    "longitude": -47.3170327,
+    "bairro": "Desconhecido"
+  },
+  {
+    "tipo": "Tênis",
+    "categoria": "Quadra",
+    "latitude": -23.1631048,
+    "longitude": -47.3168598,
+    "bairro": "Desconhecido"
+  },
+  {
+    "categoria": "Quadra",
+    "latitude": -23.1630627,
+    "longitude": -47.3163848,
+    "bairro": "Desconhecido"
+  },
+  {
+    "tipo": "Futebol",
+    "categoria": "Quadra",
+    "latitude": -23.1630415,
+    "longitude": -47.3166613,
+    "bairro": "Desconhecido"
+  },
+  {
+    "tipo": "Futebol",
+    "categoria": "Quadra",
+    "latitude": -23.1795425,
+    "longitude": -47.3033612,
+    "bairro": "Desconhecido"
+  },
+  {
+    "tipo": "Basquete",
+    "categoria": "Quadra",
+    "latitude": -23.1793969,
+    "longitude": -47.3032666,
+    "bairro": "Desconhecido"
+  },
+  {
+    "tipo": "Futebol",
+    "categoria": "Quadra",
+    "latitude": -23.1856029,
+    "longitude": -47.3128742,
+    "bairro": "Desconhecido"
+  },
+  {
+    "tipo": "Futebol",
+    "categoria": "Quadra",
+    "latitude": -23.1840328,
+    "longitude": -47.2840951,
+    "bairro": "Desconhecido"
+  },
+  {
+    "tipo": "Tênis",
+    "categoria": "Quadra",
+    "latitude": -23.1892924,
+    "longitude": -47.2812435,
+    "bairro": "Desconhecido"
+  },
+  {
+    "categoria": "Quadra",
+    "latitude": -23.1889474,
+    "longitude": -47.2809282,
+    "bairro": "Desconhecido"
+  },
+  {
+    "tipo": "Futebol",
+    "categoria": "Quadra",
+    "latitude": -23.1767201,
+    "longitude": -47.3290704,
+    "bairro": "Desconhecido"
+  },
+  {
+    "categoria": "Quadra",
+    "latitude": -23.1816831,
+    "longitude": -47.3255439,
+    "bairro": "Desconhecido"
+  },
+  {
+    "tipo": "Tênis",
+    "categoria": "Quadra",
+    "latitude": -23.1819639,
+    "longitude": -47.3262699,
+    "bairro": "Desconhecido"
+  },
+  {
+    "tipo": "Futebol",
+    "categoria": "Quadra",
+    "latitude": -23.1815044,
+    "longitude": -47.3259699,
+    "bairro": "Desconhecido"
+  },
+  {
+    "tipo": "Tênis",
+    "categoria": "Quadra",
+    "latitude": -23.181607,
+    "longitude": -47.3260977,
+    "bairro": "Desconhecido"
+  },
+  {
+    "tipo": "multi",
+    "categoria": "Quadra",
+    "latitude": -23.1823102,
+    "longitude": -47.319244,
+    "bairro": "Desconhecido"
+  },
+  {
+    "tipo": "Tênis",
+    "categoria": "Quadra",
+    "latitude": -23.1822583,
+    "longitude": -47.3187992,
+    "bairro": "Desconhecido"
+  },
+  {
+    "tipo": "equestrian",
+    "categoria": "Quadra",
+    "latitude": -31.3559315,
+    "longitude": -57.9826946,
+    "bairro": "Desconhecido"
+  },
+  {
+    "tipo": "ice_skating",
+    "categoria": "Quadra",
+    "latitude": -31.3635289,
+    "longitude": -57.9844273,
+    "bairro": "Desconhecido"
+  },
+  {
+    "tipo": "skateboard",
+    "categoria": "Quadra",
+    "latitude": -23.1986597,
+    "longitude": -47.2909704,
+    "bairro": "Desconhecido"
+  }
+]
