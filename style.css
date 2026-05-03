@@ -1,18 +1,26 @@
 #map { 
-    height: 600px; 
-    width: 600px; 
+    margin-left: 200px;
+    width: calc(100vw - 200px);
+    height: 100vh;
     border-radius: 12px;
     border: 7px solid rgb(146, 141, 141);
 }
 
-#main{
+body{
     background-color: black;
+    margin: 0;
     display: flex;
     justify-content: center; 
     align-items: center;
 }
 
-#teste{
-    background-color: black;
-    color:white;
+.main{
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 200px;
+    height: 100vh; 
+    background: #333;
+    padding: 20px;
+    background-color: white;
 }

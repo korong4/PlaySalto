@@ -1,4 +1,11 @@
 var map = L.map('map').setView([-23.176, -47.281], 13);
+
+L.tileLayer('https://{s}.basemaps.cartocdn.com/dark_all/{z}/{x}/{y}{r}.png', {
+    attribution: '&copy; OpenStreetMap & CartoDB',
+    subdomains: 'abcd',
+    maxZoom: 19
+
+}).addTo(map);
 var icones = {
     futebol: L.icon({
         iconUrl: 'https://raw.githubusercontent.com/pointhi/leaflet-color-markers/master/img/marker-icon-green.png',
@@ -41,7 +48,7 @@ function onLocationFound(e) {
     .openPopup();
 
   L.circle(e.latlng, radius).addTo(map);
-}
+} 
 
 map.on("locationfound", onLocationFound);
 
@@ -79,11 +86,10 @@ L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
     attribution: '&copy; OpenStreetMap contributors'
 }).addTo(map);
 
-// Carrega o GeoJSON da cidade de Salto
-fetch('saltoGJON.geojson')
+fetch('saltoGJON.geojson') // Carrega o GeoJSON da cidade de Salto
     .then(res => res.json())
     .then(data => {
-    // Desenha o polígono da cidade
+
     var cityLayer = L.geoJSON(data, {
         style: {color: 'blue', weight: 2, fillOpacity: 0.1}
     }).addTo(map);
