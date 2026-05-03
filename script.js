@@ -39,7 +39,7 @@ var icones = {
     }) 
 };
 
-/*const iconePreto = L.icon({ // icone preto para localizçao do usuario
+const iconePreto = L.icon({ // icone preto para localizçao do usuario
   iconUrl: 'https://raw.githubusercontent.com/pointhi/leaflet-color-markers/master/img/marker-icon-black.png',
   iconSize: [25, 41],
   iconAnchor: [12, 41],
@@ -62,7 +62,7 @@ map.on("locationfound", onLocationFound);
 
 map.on("locationerror", function() {
   alert("Não foi possível obter sua localização");
-}); */
+}); 
 
 let count_futebol = 0;
 let count_basquete = 0;
