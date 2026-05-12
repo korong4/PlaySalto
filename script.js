@@ -100,7 +100,7 @@ fetch('saltoGJON.geojson') // Carrega o GeoJSON da cidade de Salto
 
     map.setMaxBounds(cityLayer.getBounds());
     map.options.maxBoundsViscosity = 1.0; // impede o usuario de sair do limite
-    });
+});
  
 fetch('dados_com_bairro.json') // quadra + bairro 
 .then(res => res.json())
@@ -112,6 +112,7 @@ fetch('dados_com_bairro.json') // quadra + bairro
                 .addTo(map)
                 .bindPopup(
                     `<b>${item.categoria}</b><br>
+                     <b>${item.latitude,item.longitude} </b> <br>
                      Esporte: ${item.tipo}<br>
                      Bairro: ${item.bairro}`
                 );
