@@ -122,6 +122,8 @@ fetch('dados_com_bairro.json') // quadra + bairro
                 .addTo(map)
                 .bindPopup(
                     `<b>${item.categoria}</b><br>
+                     <b>${item.latitude} </b> <br>
+                     <b>${item.longitude} </b> <br>
                      Esporte: ${item.tipo}<br>
                      Bairro: ${item.bairro}`
                 );
