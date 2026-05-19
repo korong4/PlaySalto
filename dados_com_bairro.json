@@ -18,21 +18,22 @@
     "categoria": "Quadra",
     "latitude": -23.2033047,
     "longitude": -47.3052424,
-    "bairro": "Recanto do Guaraú"
+    "bairro": "São Pedro e São Paulo"
   },
   {
     "tipo": "Futebol",
     "categoria": "Quadra",
     "latitude": -23.203478,
     "longitude": -47.3065469,
-    "bairro": "Recanto do Guaraú"
+    "bairro": "São Pedro e São Paulo",
+    "tag": "Privada"
   },
   {
     "tipo": "Futebol",
     "categoria": "Quadra",
     "latitude": -23.2064269,
     "longitude": -47.3010217,
-    "bairro": "Salto de São José"
+    "bairro": "Centro"
   },
   {
     "categoria": "Quadra",
@@ -137,18 +138,18 @@
     "bairro": "Nossa Senhora do Monte Serrat"
   },
   {
+    "categoria": "Quadra",
+    "latitude": -23.211993008571046,  
+    "longitude": -47.27650943534917,
+    "bairro": "Jardim Marília"
+  },
+  {
     "tipo": "beachvolleyball",
     "categoria": "Quadra",
     "latitude": -23.2112613,
     "longitude": -47.2766365,
     "bairro": "Jardim Marília"
-  },
-  {
-    "categoria": "Quadra",
-    "latitude": -23.2097033,
-    "longitude": -47.3039064,
-    "bairro": "Salto de São José"
-  },
+  },  
   {
     "tipo": "Futebol",
     "categoria": "Quadra",
@@ -302,14 +303,7 @@
     "latitude": -23.1864354,
     "longitude": -47.2992959,
     "bairro": "Central Park"
-  },
-  {
-    "tipo": "Tênis",
-    "categoria": "Quadra",
-    "latitude": -23.1954663,
-    "longitude": -47.3122798,
-    "bairro": "Mirante dos Ipês"
-  },
+  },  
   {
     "tipo": "Tênis",
     "categoria": "Quadra",
@@ -342,21 +336,14 @@
     "categoria": "Quadra",
     "latitude": -23.1795425,
     "longitude": -47.3033612,
-    "bairro": "Salto"
+    "bairro": "São Gabriel"
   },
   {
     "tipo": "Basquete",
     "categoria": "Quadra",
     "latitude": -23.1793969,
     "longitude": -47.3032666,
-    "bairro": "Salto"
-  },
-  {
-    "tipo": "Futebol",
-    "categoria": "Quadra",
-    "latitude": -23.1856029,
-    "longitude": -47.3128742,
-    "bairro": "Recanto do Guaraú"
+    "bairro": "São Gabriel"
   },
   {
     "tipo": "Futebol",
