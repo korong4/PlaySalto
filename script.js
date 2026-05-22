@@ -46,23 +46,27 @@ const iconePreto = L.icon({ // icone preto para localizçao do usuario
   popupAnchor: [1, -34]
 });
 
-map.locate({ setView: true, maxZoom: 16 }); // pegar localizaçao do usuario 
-function onLocationFound(e) {
-  const radius = e.accuracy;
+function pegar_loc() {
+    map.locate({
+        setView: true,
+        maxZoom: 16,
+        enableHighAccuracy: true
+    });
+}
+map.on("locationfound", function(e){
+    console.log("LOCALIZAÇÃO OK");
+    console.log(e.latlng);
+    L.marker(e.latlng)
+        .addTo(map)
+        .bindPopup("Você está aqui")
+        .openPopup();
 
-  L.marker(e.latlng, { icon: iconePreto }) 
-    .addTo(map)
-    .bindPopup("Você está aqui")
-    .openPopup();
-
-  L.circle(e.latlng, radius).addTo(map);
-} 
-
-map.on("locationfound", onLocationFound);
-
-map.on("locationerror", function() {
-  alert("Não foi possível obter sua localização");
-}); 
+});
+map.on("locationerror", function(e){
+    console.log("ERRO");
+    console.log(e);
+    alert(e.message);
+});
 
 let count_futebol = 0;
 let count_basquete = 0;
